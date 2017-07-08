@@ -1,0 +1,14 @@
+{
+  "name": "jwt-nodejs",
+  "version": "1.0.0",
+  "description": "Using jwt ",
+  "main": "index.js",
+  "repository": "https://github.com/mariomoren00/jwt-nodejs.git",
+  "author": "Mario Moreno <mario.moreno.a93@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1"
+  }
+}
